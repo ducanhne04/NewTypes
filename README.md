@@ -1,2 +1,2 @@
-# NewTypes2
+# NewTypes
 game c++/sdl2
