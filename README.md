@@ -4,8 +4,8 @@ Giới thiệu : game c++/sdl2
 - Video : https://youtu.be/izqeBUN1Myo 
 
 - Cách chạy code : 
-+ tải về máy ( click "code" ( màu xanh lá cây nổi bật trên màn hình ) -> download zip ) -> giải nén -> chạy file "22021102.exe" hoặc
-+ clone repo này về máy , tải codeblocks ( link tải : https://www.codeblocks.org/downloads/binaries/ ) sau đó mở codeblocks lên rồi mở file "22021102.cbp" và chọn "build and run" để chạy code
+  + tải về máy ( click "code" ( màu xanh lá cây nổi bật trên màn hình ) -> download zip ) -> giải nén -> chạy file "22021102.exe" hoặc
+  + clone repo này về máy , tải codeblocks ( link tải : https://www.codeblocks.org/downloads/binaries/ ) sau đó mở codeblocks lên rồi mở file "22021102.cbp" và chọn "build and run" để chạy code
 
 Mô tả :
 
